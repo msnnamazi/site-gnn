@@ -1,2 +1,2 @@
 # site-gnn
-GNN for protein-ligand pinding site prediction
+GNN for protein-ligand binding site prediction
